@@ -1,0 +1,14 @@
+E:\GeekBreans\Examp\Examples001_2\bin\Debug\net7.0\Examples001_2.exe
+E:\GeekBreans\Examp\Examples001_2\bin\Debug\net7.0\Examples001_2.deps.json
+E:\GeekBreans\Examp\Examples001_2\bin\Debug\net7.0\Examples001_2.runtimeconfig.json
+E:\GeekBreans\Examp\Examples001_2\bin\Debug\net7.0\Examples001_2.dll
+E:\GeekBreans\Examp\Examples001_2\bin\Debug\net7.0\Examples001_2.pdb
+E:\GeekBreans\Examp\Examples001_2\obj\Debug\net7.0\Examples001_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBreans\Examp\Examples001_2\obj\Debug\net7.0\Examples001_2.AssemblyInfoInputs.cache
+E:\GeekBreans\Examp\Examples001_2\obj\Debug\net7.0\Examples001_2.AssemblyInfo.cs
+E:\GeekBreans\Examp\Examples001_2\obj\Debug\net7.0\Examples001_2.csproj.CoreCompileInputs.cache
+E:\GeekBreans\Examp\Examples001_2\obj\Debug\net7.0\Examples001_2.dll
+E:\GeekBreans\Examp\Examples001_2\obj\Debug\net7.0\refint\Examples001_2.dll
+E:\GeekBreans\Examp\Examples001_2\obj\Debug\net7.0\Examples001_2.pdb
+E:\GeekBreans\Examp\Examples001_2\obj\Debug\net7.0\Examples001_2.genruntimeconfig.cache
+E:\GeekBreans\Examp\Examples001_2\obj\Debug\net7.0\ref\Examples001_2.dll
